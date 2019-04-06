@@ -1,0 +1,14 @@
+{
+  "name": "webhw4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Gunyapat",
+  "license": "ISC",
+  "devDependencies": {
+    "modules": "^0.4.0"
+  }
+}
